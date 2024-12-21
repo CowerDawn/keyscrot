@@ -1,9 +1,6 @@
 SCRIPT_NAME = keyscrot.py
 BINARY_NAME = keyscrot
 
-install-pyinstaller:
-	yay -S pyinstaller --noconfirm
-
 build:
 	pyinstaller --onefile --name $(BINARY_NAME) $(SCRIPT_NAME)
 
