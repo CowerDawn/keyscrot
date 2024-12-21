@@ -14,6 +14,8 @@ The program runs in the background, but does not load the PC.
 
 `pyinstaller`
 
+`scrot`
+
 # Install:
 
 `sudo make install`
