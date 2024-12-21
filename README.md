@@ -17,3 +17,9 @@ The program runs in the background, but does not load the PC.
 # Install:
 
 `sudo make install`
+
+# Control
+
+Scroll Lock - make screen
+
+End - exit.
